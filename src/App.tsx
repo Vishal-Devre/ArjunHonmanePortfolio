@@ -265,11 +265,11 @@ function App() {
 
             <div className="hero-socials">
               <a
-                href="https://github.com/"
+                href="https://github.com/Vishal-Devre/ArjunHonmanePortfolio.git"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="social-link"
-                aria-label="GitHub"
+                aria-label="GitHub Repo"
               >
                 ⌨️
               </a>
